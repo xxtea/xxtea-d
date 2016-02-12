@@ -1,0 +1,9 @@
+{
+    "name":        "xxtea",
+    "description": "XXTEA for D.",
+    "authors":     ["Ma Bingyao"],
+    "homepage":    "https://github.com/xxtea/xxtea-d",
+    "license":     "MIT",
+    "copyright":   "Copyright (c) 2008-2016 Ma Bingyao <mabingyao@gmail.com>",
+    "targetType":  "library"
+}
