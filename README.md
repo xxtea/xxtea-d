@@ -5,6 +5,12 @@
 </a>
 
 [![Build Status](https://travis-ci.org/xxtea/xxtea-d.svg?branch=master)](https://travis-ci.org/xxtea/xxtea-d)
+[![DUB](https://img.shields.io/dub/v/xxtea.svg)](http://code.dlang.org/packages/xxtea)
+[![DUB](https://img.shields.io/dub/l/xxtea.svg)](http://code.dlang.org/packages/xxtea)
+[![DUB](https://img.shields.io/dub/dt/xxtea.svg)](http://code.dlang.org/packages/xxtea)
+[![DUB](https://img.shields.io/dub/dm/xxtea.svg)](http://code.dlang.org/packages/xxtea)
+[![DUB](https://img.shields.io/dub/dw/xxtea.svg)](http://code.dlang.org/packages/xxtea)
+[![DUB](https://img.shields.io/dub/dd/xxtea.svg)](http://code.dlang.org/packages/xxtea)
 
 ## Introduction
 
